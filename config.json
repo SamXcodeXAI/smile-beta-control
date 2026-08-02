@@ -1,5 +1,5 @@
 {
-  "beta_active": true,
+  "beta_active": false,
   "message": "SMILE Beta period has ended. Thank you for testing! Download SMILE v1 here:",
   "download_url": "https://your-smile-website.com/download",
   "valid_keys": [
